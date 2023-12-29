@@ -1,0 +1,19 @@
+
+Registrar usuario para posteriormente realizar consultas
+localhost:8080/worldcup/users
+
+{
+"name" : "Pepe",
+"email": "pepe123@gmail.com",
+"password": "pepe123",
+"passwordConfirm" : "pepe123"
+}
+
+Obtener token con el usuario registrado
+localhost:8080/worldcup/users/login
+
+{
+"email": "pepe123@gmail.com",
+"password": "pepe123"
+}
+
