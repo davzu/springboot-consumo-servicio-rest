@@ -11,7 +11,9 @@ public class RestTemplateBasicAuthenticationApplication {
 	}
 	
 	/*
-	Proyecto que consume un servicio externo de la pagina https://wiremock.org/
+	Proyecto que consume un servicio externo de la pagina https://wiremock.org/ donde se consulta a través de una
+	autenticacion basica usuerio/clave
+
 	Se registro en la pagina con correo davzuzu@gmail para hacer uso de la herramienta
 	
 	Ejemplo tomado desde:
