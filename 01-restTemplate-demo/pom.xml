@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>davzuzu</groupId>
-	<artifactId>restTemplate-demo</artifactId>
+	<artifactId>01-restTemplate-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RestTemplate Demo</name>
 	<description>Ejemplo usando RestTemplate</description>

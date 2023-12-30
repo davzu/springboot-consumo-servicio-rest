@@ -16,5 +16,11 @@ public class RestTemplateDemoApplication {
 	public RestTemplate restTemplate() {
 		return new RestTemplate();
 	}
+	
+	/*
+	Proyecto que consume un servicio externo tomado de la pagina web https://jsonplaceholder.typicode.com/
+	Ejemplo tomado desde:
+	https://youtu.be/9R2TYCnlpfU
+	 */
 
 }
