@@ -1,4 +1,4 @@
-package davzuzu.restTemplate.basicAuth;
+package davzuzu.restTemplate.basicAuth.service;
 
 import davzuzu.restTemplate.basicAuth.dto.ResultDTO;
 import davzuzu.restTemplate.basicAuth.mapper.ResultMapper;

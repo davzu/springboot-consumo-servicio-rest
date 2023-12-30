@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>davzuzu</groupId>
-	<artifactId>restTemplate-basic-auth</artifactId>
+	<artifactId>02-restTemplate-basic-auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RestTemplate Basic Authentication</name>
 	<description>Ejemplo usando RestTemplate con autenticacion basica</description>

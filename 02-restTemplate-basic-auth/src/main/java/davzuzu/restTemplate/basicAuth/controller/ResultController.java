@@ -1,6 +1,6 @@
 package davzuzu.restTemplate.basicAuth.controller;
 
-import davzuzu.restTemplate.basicAuth.ResultService;
+import davzuzu.restTemplate.basicAuth.service.ResultService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
